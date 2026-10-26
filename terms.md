@@ -14,4 +14,4 @@ Last updated: 2026/10/26
 6. **Third-party content.** Artist photos and previews are provided by Deezer; weather data by Open-Meteo.com (CC BY 4.0). They remain subject to their owners' terms.
 7. **No warranty; limits.** The app is provided "as is". To the extent the law allows, we are not liable for indirect or consequential losses, and our total liability is limited to $100.
 8. **Termination.** You can delete your account at any time. We may suspend or end access for breaking these terms.
-9. **Changes and contact.** We may update these terms; continued use means you accept them. Questions: festatlas1@gmail.com. Governing law: [YOUR STATE].
+9. **Changes and contact.** We may update these terms; continued use means you accept them. Questions: festatlas1@gmail.com. Governing law: IL.
